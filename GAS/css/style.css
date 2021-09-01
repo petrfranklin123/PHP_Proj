@@ -1,0 +1,37 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.content{
+    margin: 0 auto;
+    width: 1200px;
+}
+.logo_header_img{
+    width: 290px;
+}
+.header_bar{
+    display: flex;
+}
+.header_nav{
+    list-style: none;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 60px;
+}
+.a_nav{
+    text-decoration: none;
+    color: #0072c6;
+}
+.element_nav{
+    margin: 0 20px 10px 0;
+    font-size: 18px;
+
+    position: relative;
+}
+.element_nav::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0,173,239,0.3);;
+    bottom: -2px;
+}

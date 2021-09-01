@@ -1,0 +1,6 @@
+Центр
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium cum repudiandae nam sapiente culpa repellendus provident odio, eaque molestias deserunt neque, et pariatur. Nesciunt debitis delectus soluta amet quae reiciendis.
+                Tenetur dolor fugiat eum necessitatibus perferendis saepe eveniet facilis sunt quam ullam labore ratione debitis, nostrum, laudantium nesciunt veniam molestiae? Delectus consequatur ratione non expedita explicabo porro, a consectetur tempora?
+                Quo rem eligendi temporibus tempore exercitationem numquam eum amet odio cum repellendus, sapiente sequi quibusdam distinctio ut cumque neque aperiam quidem, consectetur, minus ipsam consequatur expedita aliquam ea culpa. Doloribus?
+                Sed commodi consequuntur possimus corrupti deleniti quae adipisci doloribus ad vitae tempora laudantium quod reprehenderit deserunt quo eos ratione dolorem, cum a nobis iure eligendi accusamus, ipsam ipsa. Molestias, eum.
+                Atque architecto, non aliquam ab blanditiis voluptatibus totam at, officiis sunt error adipisci fuga laboriosam qui ducimus sit quo sequi facere esse quia? Error, ad. Assumenda veritatis perferendis tenetur nostrum.

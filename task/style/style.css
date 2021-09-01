@@ -1,0 +1,186 @@
+
+html{
+    box-sizing: border-box;
+}
+*, *::before, ::after{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.wrapper{
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.pole{
+
+}
+.header_pole{
+    display: flex;
+    align-items: center;
+    margin-top: 55px;
+    margin-bottom: 25px;
+}
+.header_pole > p{
+    font-weight: bold;
+    margin-right: 14px;
+} 
+.header_input{
+    padding: 5px;
+    width: 200px;
+    border: 1px solid #acacac;
+    margin-right: 15px;
+}
+.header_input::placeholder{
+    color: #000000;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+.header_pole > label{
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 5px;
+}
+.checkbox{
+    margin-right: 25px;
+}
+.header_pole > button{
+    padding: 5px 23px 5px 13px;
+    border: 1px solid #000000;
+    background-color: #e2e2e2;
+    font-size: 16px;
+}
+
+
+.header_table{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #c6c6c6;
+    padding: 13px 26px 13px 8px;
+    font-weight: 500;
+    margin-bottom: 14px;
+}
+.header_table > div{
+    display: flex;
+    position: relative;
+}
+.header_table > div > p{
+    margin-right: 12px;
+}
+.but_sort{
+    position: absolute;
+    top: -4px;
+    right: -20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.top{
+    border: 6px solid transparent; 
+    border-bottom: 6px solid #000000;
+    margin-bottom: 2px;
+}
+.bot{
+    border: 6px solid transparent; 
+    border-top: 6px solid #000000;
+}
+.active{
+    border-bottom: 6px solid #ffffff;
+}
+.table{
+    padding: 6px 6px 6px 6px;
+    width: 798px;
+    max-height: 533px;
+    background: #e2e2e2;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.body_table{
+    max-height: 462px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+.item_player{
+    display: flex;
+    position: relative;
+    /*justify-content: space-between;*/
+    padding: 13px 26px 13px 8px;
+    background-color: #d3d3d3;
+    margin-bottom: 4px;
+}
+.id_player{
+    width: 50px;
+    margin-right: 155px;
+}
+.name_player{
+    width: 150px;
+    margin-right: 75px;
+}
+.lavel_player{
+    width: 150px;
+    margin-right: 102px;
+}
+
+
+/*-webkit-scrollbar состоит различных псевдо-элементов.
+
+::-webkit-scrollbar — это фон самого скроллбара.
+::-webkit-scrollbar-button — кнопки направления на полосе прокрутки.
+::-webkit-scrollbar-track — пустое пространство под индикатором прокрутки.
+::-webkit-scrollbar-thumb — индикатор прокрутки, перетаскиваемый элемент.*/
+
+/* полоса прокрутки (скроллбар) */
+::-webkit-scrollbar {
+    width: 7px; /* ширина для вертикального скролла */
+    background-color: #b9b9b9;
+    border-radius: 9em;
+}
+
+/* ползунок скроллбара */
+::-webkit-scrollbar-thumb {
+    background-color: #464646;
+    border-radius: 9em;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #5a5a5a;
+}
+
+.rad{
+    width: 20px;
+    height: 20px;
+    background-color: #989898;
+    border-radius: 50%;
+}
+.rad_onl{
+    background-color: #58900c;
+}    
+
+.select_menu_player{
+    position: absolute;
+    max-width: 190px;
+    background-color: #e2e2e2;
+    /*box-shadow: #000000;*/
+    font-weight: 400;
+    font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px #000000 solid;
+    z-index: 1000;
+}
+.show_player{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-bottom: 1px #000000 solid;
+}
+.fade_player{
+    text-decoration: none;
+    padding: 10px 20px;
+}

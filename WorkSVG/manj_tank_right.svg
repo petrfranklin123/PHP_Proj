@@ -1,0 +1,306 @@
+
+
+
+
+<svg width="50%" height="50%" viewBox="0 0 176 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g id="cwt-lvl" class="">
+        <desc>0 - 40%</desc>   
+
+        <g class="fault active">
+            <g class="active animation-fail">
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="194" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="203" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="174" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="183" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="154" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="163" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="134" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="143" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <desc>0 - 40%</desc>   
+
+
+        <desc>40% - 70%</desc> 
+        <g class="fault inactive" reference="level-1">
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="194" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="203" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="174" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="183" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="154" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="163" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="134" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="143" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+
+            <desc>-----------Мигание-----------</desc> 
+            <g class="active animation-fail">
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="114" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="123" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="94" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="103" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="74" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="83" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <desc>40% - 70%</desc>
+
+        <desc>70% - 90%</desc> 
+        <g class="fault inactive" reference="level-2">
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="194" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="203" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="174" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="183" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="154" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="163" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="134" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="143" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="114" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="123" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="94" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="103" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="74" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="83" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+
+            <desc>-----------Мигание-----------</desc> 
+            <g class="active animation-fail">
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="54" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="63" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <g>                                                                                                                                                         
+                        <g class="animation-display">
+                            <rect x="10" y="34" width="122" height="20" fill="#2D9CDB"/>
+                            <rect x="111" y="43" width="20" height="1" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <desc>70% - 90%-----------------------------------------</desc>
+
+        <desc>90% - 100%</desc> 
+        <g class="fault inactive" reference="level-3">
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="194" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="203" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="174" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="183" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="154" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="163" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="134" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="143" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="114" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="123" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="94" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="103" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="74" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="83" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="54" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="63" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g class="animation-display">
+                        <rect x="10" y="34" width="122" height="20" fill="#2D9CDB"/>
+                        <rect x="111" y="43" width="20" height="1" fill="black"/>
+                    </g>
+                </g>
+            </g>
+
+            <desc>-----------Мигание-----------</desc> 
+            <g class="active animation-fail">
+                <g>
+                    <g>
+                        <g class="animation-display">
+                            <rect x="10" y="10" width="122" height="24" fill="#FF0000"/>
+                            <rect x="111" y="22" width="20" height="1.15" fill="black"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <desc>90% - 100%</desc>
+           
+            
+        <g style="margin-left: 10px">
+            <rect x="100" y="42" width="31" height="2" fill="black"/>
+            <rect x="100" y="82" width="31" height="2" fill="black"/>
+            <rect x="100" y="142" width="31" height="2" fill="black"/>
+            <text y="50" x="145" style="font-family:Arial" fill="white" font-weight="bold">
+                90%
+            </text>
+            <text y="90" x="145" style="font-family:Arial" fill="white" font-weight="bold">
+                70%
+            </text>
+            <text y="150" x="145" style="font-family:Arial" fill="white" font-weight="bold">
+                40%
+            </text>
+        </g>
+        
+            <g id="Group 3.6">
+                <g id="Group 7.4">
+        
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 0C4.47715 0 0 4.47716 0 10V214.033C0 219.556 4.47715 224.033 10 224.033H133C138.523 224.033 143 219.556 143 214.033V10C143 4.47715 138.523 0 133 0H10ZM21.9178 10.6785C16.395 10.6785 11.9178 15.1556 11.9178 20.6785V203.499C11.9178 209.022 16.395 213.499 21.9178 213.499H121.085C126.607 213.499 131.085 209.022 131.085 203.499V20.6785C131.085 15.1556 126.607 10.6785 121.085 10.6785H21.9178Z" fill="#C4C4C4"/>
+                </g>
+            </g>
+        </g>
+        </svg>

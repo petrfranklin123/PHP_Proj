@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <div class="pole">
+                <div class="header_pole">
+                    <p>Имя</p>
+                    <input class="header_input" type="text" placeholder="Введите имя">
+                    <label for="online">Онлайн</label>
+                    <input class="checkbox" type="checkbox" name="online">
+                    <button id="selAll">Показать всех</button>
+                </div>
+
+                <div class="table">
+                    <div class="header_table">
+                        <div>
+                            <p>ID</p>
+                            <div class="but_sort">
+                               <a data-index="id" class="top" href=""></a>
+                               <a data-index="rid" class="bot" href=""></a> 
+                            </div>
+                        </div>
+                        <div>
+                            <p>Имя</p>
+                            <div class="but_sort">
+                                <a data-index="name" class="top" href=""></a>
+                                <a data-index="rname" class="bot" href=""></a> 
+                            </div>
+                        </div>
+                        <div>
+                            <p>Уровень</p>
+                            <div class="but_sort">
+                                <a data-index="level" class="top" href=""></a>
+                                <a data-index="rlevel" class="bot" href=""></a> 
+                            </div>
+                        </div>
+                        <div>
+                            <p>Онлайн</p>
+                            <div class="but_sort">
+                                <a data-index="online" class="top" href=""></a>
+                                <a data-index="ronline" class="bot" href=""></a> 
+                            </div>
+                        </div>
+                    </div>       
+                    <div class="body_table">
+                        <div class="select_menu_player">
+                            <a href="" class="show_player">Показать игрока</a>
+                            <a href="" class="fade_player">Скрыть игрока</a>
+                        </div>
+                    </div>     
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script/script.js"></script>
+</body>
+</html>

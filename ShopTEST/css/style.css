@@ -1,0 +1,25 @@
+#goods{
+    padding-top: 50px;
+    margin: 0 auto;
+    width: 1200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.single_goods{
+    width: 30%;
+    min-height: 400px;
+    text-align: center;
+    background-color: rgb(173, 213, 214);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    border: firebrick 1px solid;
+}
+.button{
+    display: block;
+    margin: 40px auto;
+    border: none;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(255, 203, 72);
+    cursor: pointer;
+}

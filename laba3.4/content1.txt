@@ -1,0 +1,5 @@
+1|Название|23123 РУБ|info/1.txt|images/1.jpg
+2|Название|213213 РУБ|info/2.txt|images/2.jpg
+3|sad|213123 РУБ|info/3.txt|images/3.jpg
+4|Название|23123 РУБ|info/4.txt|images/4.jpg
+5|Новый товар|56709 РУБ|info/5.txt|images/5.jpg

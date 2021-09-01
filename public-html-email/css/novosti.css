@@ -1,0 +1,18 @@
+ #novosti{
+    width:620px;
+    margin-top:10px;
+    float:left;
+    margin-left:355px;
+    border-radius:7px;
+       background:#fff;
+       padding:10px;
+} 
+#rightcol{
+    width:250px;
+  float:right;
+    margin-right:76px;
+    border-radius:7px;
+    margin-top:10px;
+       padding:10px;
+        background:#fff;
+     }

@@ -1,0 +1,8 @@
+images/1.jpg;BS12C2Li-152BF;content/info1.txt;1 250 руб;;
+images/2.jpg;BS12C2Li-152BF;content/info2.txt;1 250 руб;;
+images/3.jpg;BS12C2Li-152BF;content/info3.txt;1 250 руб;;
+images/4.jpg;BS12C2Li-152BF;content/info4.txt;1 250 руб;;
+images/5.jpg;BS12C2Li-152BF;content/info5.txt;1 250 руб;;
+images/6.jpg;BS12C2Li-152BF;content/info6.txt;1 250 руб;;
+images/7.jpg;BS12C2Li-152BF;content/info7.txt;1 250 руб;;
+images/8.jpg;BS12C2Li-152BF;content/info8.txt;1 250 руб;;

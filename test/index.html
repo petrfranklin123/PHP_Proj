@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Golden</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+               $("#menu").on("click","a", function (event) {
+                   event.preventDefault();
+                   var id  = $(this).attr('href'),
+                       top = $(id).offset().top;
+                   $('body,html').animate({scrollTop: top}, 1500);
+               });
+           });
+           </script>
+    </head>
+        <body>
+
+                        <form action="mail.php" method="POST">
+
+                            <!-- Hidden Required Fields -->
+                            <input type="hidden" name="project_name" value="Site Name">
+                            <input type="hidden" name="admin_email" value="d38125@urhen.com">
+                            <input type="hidden" name="form_subject" value="Form Subject">
+                            <!-- END Hidden Required Fields -->
+                    
+                            <input class="name" type="text" name="Name" placeholder="You name..." required><br>
+                            <input class="email" type="text" name="E-mail" placeholder="You E-mail..." required><br>
+                            <input class="email__info" type="text" name="Phone" placeholder="You info..."><br>
+                            <button>Отправить</button>
+                    
+                        </form>
+
+            <script src="js/main.js"></script>
+        </body>
+</html>
